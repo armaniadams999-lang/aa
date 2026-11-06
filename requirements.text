@@ -1,0 +1,6 @@
+fastapi 
+pandas
+pydantic
+tenacity
+google-genai
+uvicorn
