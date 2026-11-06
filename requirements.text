@@ -1,5 +1,5 @@
-fast api 
+fastapi 
 pandas
 pydantic
 tenacity
-google genai sdk
+google-genai
